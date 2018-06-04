@@ -1,3 +1,5 @@
 # C-Primer5th
-习题练习
+
+c++Primer5th 例题，习题完整练习
+
 ![image](https://github.com/Brighteststars/C-Primer5th/raw/master/images/result.png )
